@@ -31,22 +31,22 @@ Cybersecurity Enthusiast | Python Automation Dev 🔐🐍
 Create a `.env` file in the root folder and store API keys securely.
 
 ### ✅ For Fast2SMS (`sms_bomber.py`)
-```env
+
 FAST2SMS_KEY=your_fast2sms_api_key
 
-✅ For Twilio (sms_sender.py)
+### ✅ For Twilio (sms_sender.py)
 TWILIO_SID=your_twilio_account_sid
 TWILIO_TOKEN=your_twilio_auth_token
 TWILIO_NUMBER=your_twilio_phone_number
 
 
-📦 Requirements
+### 📦 Requirements
 Install dependencies via pip:
 pip install requests python-dotenv twilio
 sudo apt install python3-tk
 
 
-🔒 Legal & Ethical Use
+### 🔒 Legal & Ethical Use
 🚫 Use these tools only for educational or testing purposes.
 You are not allowed to:
 
@@ -59,4 +59,4 @@ Use without user consent
 Using these scripts irresponsibly may be illegal in your country.
 Use on your own number or with consent only.
 
-🌐 Connect with Me
+### 🌐 Connect with Me
